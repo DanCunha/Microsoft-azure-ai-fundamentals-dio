@@ -125,7 +125,7 @@ No estúdio Azure Machine Learning, no menu esquerdo, selecione Endpoints e abra
 Na página do endpoint em tempo real de previsão de aluguel, visualize a guia Teste .
 
 No painel Dados de entrada para testar o endpoint , substitua o modelo JSON pelos seguintes dados de entrada:
-
+```
 Código
  {
    "Inputs": { 
@@ -148,6 +148,7 @@ Código
    },   
    "GlobalParameters": 1.0
  }
+```
 Clique no botão Testar .
 
 A previsão gerada foi: 361.95

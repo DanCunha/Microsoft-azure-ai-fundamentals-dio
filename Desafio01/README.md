@@ -5,7 +5,7 @@ Para utilizar o Azure Machine Learning, é necessário provisionar um espaço de
 
 Dica : se você já tiver um espaço de trabalho do Azure Machine Learning, poderá usá-lo e pular para a próxima tarefa.
 
-Entre no portal do Azure usando https://portal.azure.comsuas credenciais da Microsoft.
+Entre no portal do Azure usando https://portal.azure.com suas credenciais da Microsoft.
 
 Selecione + Criar um recurso , pesquise Machine Learning e crie um novo recurso do Azure Machine Learning com as seguintes configurações:
 Assinatura : sua assinatura do Azure .

@@ -1,4 +1,4 @@
-# Microsoft-azure-ai-fundamentals-dio
+# Desafio-01 Microsoft-azure-ai-fundamentals-dio
 
 Crie um espaço de trabalho do Azure Machine Learning
 Para utilizar o Azure Machine Learning, é necessário provisionar um espaço de trabalho do Azure Machine Learning na sua subscrição do Azure. Depois, você poderá usar o estúdio Azure Machine Learning para trabalhar com os recursos do seu workspace.

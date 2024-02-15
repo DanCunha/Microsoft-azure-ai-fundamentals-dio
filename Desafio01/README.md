@@ -5,7 +5,7 @@ Para utilizar o Azure Machine Learning, é necessário provisionar um espaço de
 
 Dica : se você já tiver um espaço de trabalho do Azure Machine Learning, poderá usá-lo e pular para a próxima tarefa.
 
-Entre no portal do Azure usando https://portal.azure.comsuas credenciais da Microsoft.
+Entre no portal do Azure usando https://portal.azure.com suas credenciais da Microsoft.
 
 Selecione + Criar um recurso , pesquise Machine Learning e crie um novo recurso do Azure Machine Learning com as seguintes configurações:
 Assinatura : sua assinatura do Azure .
@@ -125,7 +125,7 @@ No estúdio Azure Machine Learning, no menu esquerdo, selecione Endpoints e abra
 Na página do endpoint em tempo real de previsão de aluguel, visualize a guia Teste .
 
 No painel Dados de entrada para testar o endpoint , substitua o modelo JSON pelos seguintes dados de entrada:
-
+```
 Código
  {
    "Inputs": { 
@@ -148,6 +148,7 @@ Código
    },   
    "GlobalParameters": 1.0
  }
+```
 Clique no botão Testar .
 
 A previsão gerada foi: 361.95

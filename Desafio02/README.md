@@ -1,4 +1,4 @@
-# Desafio 03 Microsoft-azure-ai-fundamentals-dio
+# Desafio 02 Microsoft-azure-ai-fundamentals-dio
 ## Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
 ## Acessando o Azure AI Services
